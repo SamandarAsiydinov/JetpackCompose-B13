@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeB13</string>
+    <string name="text">To ensure optimal user experience, if your calculation is expensive, you don’t want to re-recalculate every time a Composable gets recomposed.
+In addition, should a recomposition occur, often you don’t want to lose a value that it’s been calculated during composition.</string>
+</resources>
